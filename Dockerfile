@@ -1,3 +1,2 @@
-FROM  hshar /webapp
-ADD . /var/www/htmlwq
-
+FROM shweta-goud/webapp
+ADD . /var/www/html
